@@ -37,7 +37,7 @@ Telegram: [https://t.me/AlfiyaUstimenko85](https://t.me/AlfiyaUstimenko85)
 
 # Сертификаты
 
-Ручное тестирование вебприложений
-Java для тестировщиков
-Автоматизированное тестирование
+[Ручное тестирование вебприложений](https://github.com/alfiya35/alfiya35/blob/main/certificate3.pdf)
+[Java для тестировщиков](https://github.com/alfiya35/alfiya35/blob/main/certificate.java)
+[Git-система контроля вепсий](https://github.com/alfiya35/alfiya35/blob/main/certificate2.pdf)
 
