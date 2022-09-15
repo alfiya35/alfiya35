@@ -33,6 +33,8 @@ Telegram: [https://t.me/AlfiyaUstimenko85](https://t.me/AlfiyaUstimenko85)
 * оформлено 6 баг-репортов на дефекты в функционале поиска и отзывов на товар
 * проведено тестирование верстки и изучение структуры POST запросов при помощи DevTools
 
+[Больше мoих проектов](https://github.com/alfiya35?tab=repositories)
+
 
 
 # Сертификаты
